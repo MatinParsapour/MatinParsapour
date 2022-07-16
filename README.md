@@ -1,4 +1,4 @@
-![Header](header.jpg)
+![Header](header.png)
 
 <p align="center">
   <a href="https://skillicons.dev">
