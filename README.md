@@ -5,3 +5,5 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31betvge5m7wpzphtnjrujeoljve&cover_image=true&theme=karaoke)](https://spotify-github-profile.vercel.app/api/view?uid=31betvge5m7wpzphtnjrujeoljve&redirect=true)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31betvge5m7wpzphtnjrujeoljve&count={count})
