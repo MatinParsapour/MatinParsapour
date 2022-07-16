@@ -1,4 +1,4 @@
-![Header](./photo_2022-07-16_01-09-28.jpg)
+![Header](photo_2022-07-16_01-09-28.jpg)
 
 <p align="center">
   <a href="https://skillicons.dev">
