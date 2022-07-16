@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatinParsapour&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatinParsapour&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatinParsapour&theme=dracula)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinParsapour)](https://github.com/anuraghazra/github-readme-stats)
 
