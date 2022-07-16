@@ -1,6 +1,3 @@
-[![Header](photo_2022-07-16_01-09-28.jpg)
-](https://github.com/MatinParsapour/MatinParsapour/blob/main/header.png?raw=true)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,java,angular,mysql,mongodb,spring" />
