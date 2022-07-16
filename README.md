@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,mysql,mongodb,spring boot)](https://skillicons.dev)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatinParsapour&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatinParsapour&theme=dracula)
